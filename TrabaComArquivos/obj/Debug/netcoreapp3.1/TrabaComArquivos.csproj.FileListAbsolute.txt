@@ -1,0 +1,14 @@
+C:\Users\glauc\source\repos\TrabaComArquivos\TrabaComArquivos\bin\Debug\netcoreapp3.1\TrabaComArquivos.exe
+C:\Users\glauc\source\repos\TrabaComArquivos\TrabaComArquivos\bin\Debug\netcoreapp3.1\TrabaComArquivos.deps.json
+C:\Users\glauc\source\repos\TrabaComArquivos\TrabaComArquivos\bin\Debug\netcoreapp3.1\TrabaComArquivos.runtimeconfig.json
+C:\Users\glauc\source\repos\TrabaComArquivos\TrabaComArquivos\bin\Debug\netcoreapp3.1\TrabaComArquivos.runtimeconfig.dev.json
+C:\Users\glauc\source\repos\TrabaComArquivos\TrabaComArquivos\bin\Debug\netcoreapp3.1\TrabaComArquivos.dll
+C:\Users\glauc\source\repos\TrabaComArquivos\TrabaComArquivos\bin\Debug\netcoreapp3.1\TrabaComArquivos.pdb
+C:\Users\glauc\source\repos\TrabaComArquivos\TrabaComArquivos\obj\Debug\netcoreapp3.1\TrabaComArquivos.csproj.AssemblyReference.cache
+C:\Users\glauc\source\repos\TrabaComArquivos\TrabaComArquivos\obj\Debug\netcoreapp3.1\TrabaComArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glauc\source\repos\TrabaComArquivos\TrabaComArquivos\obj\Debug\netcoreapp3.1\TrabaComArquivos.AssemblyInfoInputs.cache
+C:\Users\glauc\source\repos\TrabaComArquivos\TrabaComArquivos\obj\Debug\netcoreapp3.1\TrabaComArquivos.AssemblyInfo.cs
+C:\Users\glauc\source\repos\TrabaComArquivos\TrabaComArquivos\obj\Debug\netcoreapp3.1\TrabaComArquivos.csproj.CoreCompileInputs.cache
+C:\Users\glauc\source\repos\TrabaComArquivos\TrabaComArquivos\obj\Debug\netcoreapp3.1\TrabaComArquivos.dll
+C:\Users\glauc\source\repos\TrabaComArquivos\TrabaComArquivos\obj\Debug\netcoreapp3.1\TrabaComArquivos.pdb
+C:\Users\glauc\source\repos\TrabaComArquivos\TrabaComArquivos\obj\Debug\netcoreapp3.1\TrabaComArquivos.genruntimeconfig.cache
